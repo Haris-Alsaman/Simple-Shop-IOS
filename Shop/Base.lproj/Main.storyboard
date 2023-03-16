@@ -22,7 +22,7 @@
                                 <color key="backgroundColor" red="0.48638731060606055" green="0.27902894754331198" blue="0.4556425353245927" alpha="0.8493118791390728" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="0.5" green="0.12920265794107288" blue="0.32337963883792464" alpha="0.8493118791390728" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="LeG-c8-qKy">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="LeG-c8-qKy">
                                 <rect key="frame" x="35" y="132" width="322" height="240"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -413,9 +413,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Image" width="207.33332824707031" height="170.33332824707031"/>
         <image name="basket" catalog="system" width="128" height="108"/>
         <image name="beakground" width="360" height="640"/>
-        <image name="logo" width="166.66667175292969" height="166.66667175292969"/>
         <image name="minus" catalog="system" width="128" height="26"/>
         <image name="plus" catalog="system" width="128" height="113"/>
         <systemColor name="systemBackgroundColor">
