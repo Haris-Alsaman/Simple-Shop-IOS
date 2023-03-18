@@ -28,5 +28,5 @@ The application includes unit tests for the networking layer and model layer usi
 
 ## Pictures
 
-<img src="https://github.com/Haris-Alsaman/Simple_Shop/blob/main/Pictures/Picture.png" width="880">
+<img src="https://github.com/Haris-Alsaman/Simple-Shop-IOS/blob/main/Pictures/Picture.png" width="880">
 
